@@ -1,5 +1,5 @@
 {
-    "name"  : "hai121341169/workerman-thrift",
+    "name"  : "hai121341169/hai-thrift-rpc",
     "type"  : "project",
     "keywords": ["thrift","rpc"],
     "homepage": "http://www.workerman.net",
